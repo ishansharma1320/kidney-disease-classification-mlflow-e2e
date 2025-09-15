@@ -16,4 +16,6 @@ scipy
 Flask
 Flask-Cors
 gdown
+kaggle
+python-dotenv
 -e .
