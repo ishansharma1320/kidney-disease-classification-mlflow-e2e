@@ -1,0 +1,6 @@
+.env
+kaggle.json
+
+artifacts/**
+
+**/__pycache__/*
