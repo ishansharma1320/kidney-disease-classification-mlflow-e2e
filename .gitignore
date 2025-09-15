@@ -4,3 +4,5 @@ kaggle.json
 artifacts/**
 
 **/__pycache__/*
+
+**/*.egg-info/*
