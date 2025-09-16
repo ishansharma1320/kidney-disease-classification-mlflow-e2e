@@ -10,3 +10,5 @@ artifacts/**
 **/logs/*
 
 scores.json
+
+mlruns/
